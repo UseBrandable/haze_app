@@ -33,3 +33,4 @@ To deploy this project run
 **Database:** Firebase
 
 **Authentication:** Firebase Email Password Authentication
+
