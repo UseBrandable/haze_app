@@ -18,7 +18,7 @@ const Header = (props) => {
   return (
     <header className="Haze_header">
       <div className="logo">
-        <a href="#"> Haze</a>
+        <a href="#"><img src="assets/Image/logo.svg"/></a>
       </div>
       <nav className="nav_bar">
         <ul className="nav_menu">

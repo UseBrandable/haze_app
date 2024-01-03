@@ -18,7 +18,7 @@ const PrintingMethods = () => {
           <ul className="dropdown-menu">
             <li>
               <a className="dropdown-item" href="#">
-                Viewfff Themes
+                View Themes
               </a>
             </li>
             <li>
@@ -40,10 +40,9 @@ const PrintingMethods = () => {
         </div>
       </div>
 
-      <div className="main_container">
+      <div clasclassNames="main_container">
         <div className="my_products">
           <div className=" products_hr"></div>
-
           <div className="add_products_section printin_methods_section">
             <div className="add_products_col">
               <div className="add_products_col_icon">
@@ -52,7 +51,6 @@ const PrintingMethods = () => {
               <div className="add_products_col_title">
                 There’s no printing method decided, yet
               </div>
-
               <div className="wraper_button_section">
                 <button className="add_button ">+ Add Printing Method</button>
               </div>
