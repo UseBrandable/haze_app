@@ -11,6 +11,8 @@
 # api node_modules
 /api/node_modules
 
+/hazeapi/node_modules
+
 # production
 /build
 
